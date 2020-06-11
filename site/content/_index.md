@@ -1,7 +1,7 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "LampLight Digital"
+subtitle: IT Consultation focused on Network Design and Cloud Solutions
+image: /img/server.rack.jpg
 blurb:
     heading: LampLight Digital
     text: "LampLight Digital serves the Dallas Ft. Worth community.  We started with a simple idea: Innovate with the leanest team possible to pass cost-savings to our customers.  We've delivered and continue to drive innovation with our clients."

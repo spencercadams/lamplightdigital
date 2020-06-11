@@ -1,6 +1,6 @@
 ---
-title: Our Coffee
-type: products
+title: What we offer
+type: Services
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -98,5 +98,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
-
