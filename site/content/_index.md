@@ -8,7 +8,7 @@ blurb:
 intro:
     heading: "What we offer"
     text: "LampLight provides IT Consultation focused on network design and cloud solutions.  We partner with some of the leading Service Providers to deliver based on our clients goals.  We are professional certified Cloud and Network professionals."
-products:
+services:
     - image: img/Internet.svg
       text: "We provide Network Services"
     - image: /img/client.svg
