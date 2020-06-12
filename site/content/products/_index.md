@@ -1,73 +1,50 @@
 ---
 title: What we offer
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/table.office.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Burning the midnight oil, LampLight Digital serves as a shining light in the IT Solutions industry.  We focus on outcomes, rather than answers and focus on our customers.  We are a close-knit team of dedicated IT professionals that are motivated by innovation and delivering simple solutions to complex problems.  We look forward to serving you.
+
+  Are we the right choice for your business? Give us a try! We are very clear with our customers when it comes to our capabilities. If you are looking for services that are outside of our area of expertise, we will let you know. We prefer to pass on an opportunity rather than attempt to build a solution we’re unsure of.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/internet.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
+        Cloud Consulting and Economic Analysis.
+    - image: /img/peering.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
+        Network - network design, cross-connects, wireless AP, P2P, P2MP, cable pulls, VoIP
+    - image: /img/drone.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
+        Drone analysis and Part 107 certified.  Partner with 1UPDrones.
+    - image: /img/client.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Static site development (HTML website using Hugo)
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Burning the midnight oil, LampLight Digital serves as a shining light in the IT Solutions industry.  We focus on outcomes, rather than answers and focus on our customers.  We are a close-knit team of dedicated IT professionals that are motivated by innovation and delivering simple solutions to complex problems.  We look forward to serving you.
 main:
-  heading: Great coffee with no compromises
+  heading: Great services with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We hold our team to the highest standards from the first project to the last.
+    That’s why we’re meticulous and transparent about each step in your journey to cloud.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/ubiquiti.unsplash.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/phone.unsplash.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/lamps.unsplash.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Chuck Adams
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Spencer quickly set up our Access Points and wired up the office, simple and effective.
+  - author: Reagan
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      We used LampLight to create a quick website for our business.  They spun it up in a day and where creative along the way!  Highly recommend!
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
