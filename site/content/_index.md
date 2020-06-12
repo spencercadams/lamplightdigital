@@ -8,12 +8,12 @@ blurb:
 intro:
     heading: "What we offer"
     text: "LampLight provides IT Consultation focused on network design and cloud solutions.  We partner with some of the leading Service Providers to deliver based on our clients goals.  We are professional certified Cloud and Network professionals."
-services:
-    - image: img/Internet.svg
-      text: "We provide Network Services"
-    - image: /img/client.svg
-      text: "We consult on cloud strategy"
+products:
+    - image: img/peering.svg
+      text: Our core competency is Networking.  We perform network design, cross-connects, wireless connectivity, P2P, P2MP, cable pulls, VoIP.  We primarily partner with Ubiquiti, as we believe their products are best of breed, while being cost-effective.
+    - image: /img/internet.svg
+      text: Cloud Consulting and Economic Analysis. We work with AWS, Google Cloud Platform, Azure, and IBM Cloud to evaluate best practices and most cost-effective method to implement our clients solutions. We take into account risk vs reward practices to understand your needs and walk through our D.I.M practice (Design, Implement, Maintain).
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: The name LampLight came from how we work.  There are a lot of analogies we could pull about lamps.  An onset to new technology and innovation, burning the midnight oil, shining a light into the future, etc.  I'd say each have their place and are part and parcel to our work.  Ultimately, the name came from a Lamp named Sam in my office.  Regardless of "Sam," we will do everything in our power to deliver results.
 ---

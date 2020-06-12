@@ -11,16 +11,16 @@ intro:
   blurbs:
     - image: /img/internet.svg
       text: >
-        Cloud Consulting and Economic Analysis.
+        *Cloud Consulting and Economic Analysis*.  We work with AWS, Google Cloud Platform, Azure, and IBM Cloud to evaluate best practices and most cost-effective method to implement our clients solutions.  We take into account risk vs reward practices to understand your needs and walk through our D.I.M practice (Design, Implement, Maintain).
     - image: /img/peering.svg
       text: >
-        Network - network design, cross-connects, wireless AP, P2P, P2MP, cable pulls, VoIP
+        Our core competency is Networking.  We perform network design, cross-connects, wireless connectivity, P2P, P2MP, cable pulls, VoIP.  We primarily partner with Ubiquiti, as we believe their products are best of breed, while being cost-effective.
     - image: /img/drone.png
       text: >
-        Drone analysis and Part 107 certified.  Partner with 1UPDrones.
+        LampLight has FAA Part 107 certified pilots available for drone.  We can also perform Drone Analysis for more custom work, GIS/CAD drawings and other out of the box ideas.  We partner with 1UPDrones Aerial Drone Services.
     - image: /img/client.svg
       text: >
-        Static site development (HTML website using Hugo)
+        Looking for a quick website?  Look no further than LampLight Digital.  We setup fairly basic Static sites and web development.  We rely upon Wordpress and Hugo to perform our customization.
   heading: What we offer
   description: >
     Burning the midnight oil, LampLight Digital serves as a shining light in the IT Solutions industry.  We focus on outcomes, rather than answers and focus on our customers.  We are a close-knit team of dedicated IT professionals that are motivated by innovation and delivering simple solutions to complex problems.  We look forward to serving you.
@@ -44,34 +44,32 @@ testimonials:
       Spencer quickly set up our Access Points and wired up the office, simple and effective.
   - author: Reagan
     quote: >-
-      We used LampLight to create a quick website for our business.  They spun it up in a day and where creative along the way!  Highly recommend!
+      We used LampLight to create a quick website for our business.  They spun it up in a day and were creative along the way!  Highly recommend!
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Initial Assessment
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the Roadmap Thinker
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Custom Architecture Diagram via Draw.io
+        - Process and Plan Implementation based on needs
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: 'Great for a Technical Team'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - Custom Architecture Diagram via Draw.io
+        - Process and Plan Implementation based on needs
+        - Setup Slack Channel for passing ideas for ad-hoc solutioning
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: '100'
+    - description: Want start a custom engagement? Try our custom plan
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Unlimited ideas
       plan: Custom
       price: '?'
 ---
