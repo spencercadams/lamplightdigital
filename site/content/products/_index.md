@@ -1,6 +1,6 @@
 ---
 title: What we offer
-type: services
+type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
